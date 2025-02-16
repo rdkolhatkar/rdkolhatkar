@@ -14,7 +14,8 @@
 
 🚀 Current Focus:
 
-🔸 Developing advanced test automation solutions for UI & API testing                                                                                                                                               🔸 Enhancing CI/CD pipelines with automated testing for rapid feedback                                                                                                                                              🔸 Exploring new tools and techniques to optimize software quality                                                                                                                                                   
+🔸 Developing advanced test automation solutions for UI & API testing                                                                                                                                               🔸 Enhancing CI/CD pipelines with automated testing for rapid feedback                                                                                                                                              🔸 Exploring new tools and techniques to optimize software quality
+
 📚 Always Learning:
 
 Exploring new testing tools and techniques.
