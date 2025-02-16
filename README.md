@@ -4,7 +4,8 @@
 
 🌟 Skills & Expertise:
 
-✅ Test Automation: UI & API Testing, Functional & Non-Functional Testing 🛠️                                                                                                                                        ✅ CI/CD & Version Control: Jenkins, GitHub, OpenShift (OCP), Pivotal Cloud Foundry (PCF) ⚙️                                                                                                                        ✅ Automation Frameworks: Selenium (Java), Karate (API Testing) 🧰                                                                                                                                                  ✅ Mobile Testing: Ensuring seamless user experiences across devices 📱 
+✅ Test Automation: UI & API Testing, Functional & Non-Functional Testing 🛠️                                                                                                                                        ✅ CI/CD & Version Control: Jenkins, GitHub, OpenShift (OCP), Pivotal Cloud Foundry (PCF) ⚙️                                                                                                                        ✅ Automation Frameworks: Selenium (Java), Karate (API Testing), RestAssured (API Testing), Serenity BDD (UI & API), Playwright(UI Testing), Gatling (API Performance Testing) 🧰
+✅ Mobile Testing: Ensuring seamless user experiences across devices 📱 
 ✅ Database Testing: SQL queries for data validation 📊                                                                                                                                                             ✅ Test Suite Frameworks: Designing scalable automation solutions 🏗️                                                                                                                                                ✅ Smoke & Regression Testing: Identifying critical issues early 🚦 
 
 💡 Passionate About:
