@@ -9,7 +9,7 @@
 
 💡 Passionate About:
 
-🔹 Building robust and scalable automation frameworks 🛡️                                                                                                                                                            🔹 Streamlining CI/CD pipelines for faster release cycles ⏩                                                                                                                                                        🔹 Collaborating with cross-functional teams 🤝                                                                                                                                                                     🔹 Staying up-to-date with emerging testing tools & best practices 📈
+🔹 Building robust and scalable automation frameworks 🛡️                                                                                                                                                            🔹 Streamlining CI/CD pipelines for faster release cycles ⏩                                                                                                                                                        🔹 Collaborating with cross-functional teams 🤝                                                                                                                                                                     🔹 Staying up-to-date with emerging technologies, testing tools & best practices 📈
 
 🚀 Current Focus:
 
