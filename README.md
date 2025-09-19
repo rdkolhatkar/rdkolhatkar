@@ -87,33 +87,6 @@
 
 ---
 
-## 📌 Pinned Projects  
-
-### 🔹 [EmployeeAPI](https://github.com/ratnakar-kolhatkar/EmployeeAPI)  
-A **Spring Boot REST API** project built using **Java + Gradle**, featuring employee management endpoints.  
-Includes an **automation testing framework** with **Serenity BDD** for behavior-driven testing.  
-
-### 🔹 [SerenityBDDtest](https://github.com/ratnakar-kolhatkar/SerenityBDDtest)  
-Comprehensive **UI automation project** using **Java + Maven** with **Serenity BDD**.  
-Demonstrates **reusable page objects, detailed reporting, and BDD-style tests**.  
-
-### 🔹 [SpringBatchApp](https://github.com/ratnakar-kolhatkar/SpringBatchApp)  
-A **Spring Batch Application** developed in **Java + Spring Boot**, showcasing **batch job orchestration** and **data processing pipelines**.  
-
-### 🔹 [PlayWrightAutomation](https://github.com/ratnakar-kolhatkar/PlayWrightAutomation)  
-**UI + API automation framework** powered by **Playwright with JavaScript/TypeScript**.  
-Covers **cross-browser testing, API validations, and reusable test utilities**.  
-
-### 🔹 [AppiumMobileAutomation](https://github.com/ratnakar-kolhatkar/AppiumMobileAutomation)  
-A **Java-based Appium project** for automating **mobile testing** on Android & iOS.  
-Includes **setup guidelines, sample test scripts, and best practices** for mobile QA.  
-
-### 🔹 [DockerPracticeApp](https://github.com/ratnakar-kolhatkar/DockerPracticeApp)  
-Hands-on repository to **explore Docker with multiple Node.js apps**.  
-Each app demonstrates **containerization, image building, networking, and orchestration basics**.  
-
----
-
 ## 🌐 Let’s Connect  
 
 - 📫 Email: **ratnakarkolhatkar@gmail.com**  
